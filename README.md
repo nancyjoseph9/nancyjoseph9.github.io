@@ -9,3 +9,6 @@ assistant that provides visual, interactive, and engaging support for users of a
 We wanted to create a solution that goes beyond the traditional workout app, offering a chatbot that can communicate and interact with users through both
 text and images. Whether it’s helping users visualize their fitness goals by comparing them to certain body types or providing detailed guidance on using
 gym equipment, our chatbot aims to provide a holistic fitness support system.
+
+
+Used a web development tutorial from WebDesignMastery as a template for this website.

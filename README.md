@@ -1,3 +1,5 @@
+# GymLen
+
 In today’s fast-paced world, personal health and fitness are more important than ever, but finding the time, resources, and motivation can be challenging.
 During our initial research, we discovered that 70% of people interested in fitness set specific goals but struggle to remain consistent and informed about 
 how to achieve them. Additionally, according to a survey by the National Health Survey (NHS), 63% of gym-goers feel uncertain about certain exercises or 
